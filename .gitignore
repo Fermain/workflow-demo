@@ -1,1 +1,3 @@
+# We ignore any folder that can be regenerated.
 node_modules/
+dist/
